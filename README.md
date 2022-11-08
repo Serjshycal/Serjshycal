@@ -1,0 +1,5 @@
+- Greetings humans, I’m @Serjshycal
+- I’m interested in learning to code in general
+- I’m currently learning C#
+- I’m looking to collaborate on videogames and creating my own software
+- I'm also into art, AI, cats, linux, philosophy and the idea of having a Café someday.
